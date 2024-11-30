@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @simranshrestha777!
-- 🌱 I’m currently learning c and c++
 - 📫 How to reach me simran.shrestha001@gmail.com
 
 <!---
