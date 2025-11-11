@@ -23,7 +23,6 @@ Frameworks & Tools:
 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=simranshrestha777&show_icons=true&theme=rose_pine" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simranshrestha777&theme=rose_pine" alt="GitHub Streak" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simranshrestha777&layout=compact&theme=rose_pine" alt="Top Languages" />
 
 </p>
