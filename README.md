@@ -16,7 +16,7 @@ Languages:
 
 Frameworks & Tools: 
 
-`Django` `React` `Git` `GitHub` `VS Code` `MySQL`
+`Django` `React` `Git` `GitHub` `VS Code` `MySQL` `Flask` `JupyterNotebook`
 
 
 
