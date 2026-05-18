@@ -1,7 +1,7 @@
 👋 Hi, I'm Simran Shrestha!
 
 💻 BIT student passionate about creating meaningful digital experiences through code and creativity.  
-🌱 Currently learning Python, Django, and Data Analytics.
+🌱 Currently learning Python, Laravel PHP JavaScript, and Data Analytics.
 
 🚀 About Me
 - 🎓 Studying BIT and building projects to strengthen my dev & data skills.   
